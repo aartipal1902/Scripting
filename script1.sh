@@ -1,0 +1,4 @@
+echo "we are trying this practical from linux ec2"
+echo "we are form batch-24 and learning git/github"
+echo "happy weekend"
+echo "we are learnig"
